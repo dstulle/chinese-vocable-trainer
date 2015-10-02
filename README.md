@@ -1,3 +1,3 @@
-# chinese-vocable-trainer
+# Chinese Vocable Trainer
 
-This is an old Project from 2007
+This is an old project from 2007
